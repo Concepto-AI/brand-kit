@@ -18,4 +18,5 @@ Files:
     - PNG
     - SVG
     - ICO
+      
 For more info, please see the [Branding](https://docs.conceptoai.app/info/branding) page on the Concepto AI Docs.
